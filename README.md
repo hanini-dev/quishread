@@ -1,4 +1,4 @@
-# QUISHREAD
+# QUISHREAD: A SUSPICIOUS URL DETECTION TOOL FROM QR CODE USING RANDOM FOREST FOR UTHM
 
 QUISHREAD is a Python-based QR code security detection system that identifies malicious URLs embedded in QR codes using the Random Forest machine learning algorithm.
 
