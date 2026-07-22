@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Firebase Admin SDK Key
+uthm-quishread-firebase-adminsdk-fbsvc-8a04c1071f.json
